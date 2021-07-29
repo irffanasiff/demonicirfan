@@ -77,5 +77,5 @@
 
 
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<span> <img src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=demonicirfan&currStreakNum=2FD3EB&theme=gotham"/> </span>
 
