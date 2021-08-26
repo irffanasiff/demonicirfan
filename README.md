@@ -54,7 +54,7 @@
 
 <br/>
 <h4>
-  &nbsp I'm Irfan Asif an undergraduate student at NIT Srinagar, from J&K India. I am a self-taught full stack web developer and a graphics designer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
+  &nbsp I'm Irfan Asif an undergraduate student at NIT Srinagar, from J&K India. I am a self-taught devOps and full stack web developer and a graphics designer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
   <br/> &nbsp I'm also an open-source enthusiast. I have learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. </h4>
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="20" height="20"
