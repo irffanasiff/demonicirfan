@@ -1,33 +1,5 @@
 <h1>Hii, Peeps!<img src="https://uarrr.org/wp-content/uploads/2020/12/IMG_1769.gif" width="60" height="60"
 /> </h1>
-<!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
-<!-- 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="30" height="30"
-/> 
- <1--
-<img src="https://media0.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif?cid=6c09b952dx4tm9w5qu85eup7uhbcrgu0gtcgkoccmaepvpvp&rid=giphy.gif" width="60" height="60"
-/> 
-<img src="https://i.pinimg.com/originals/90/c6/69/90c6698dc6f9e00bb32ffb3e21042474.gif" width="60" height="60"
-/> 
- <img src="https://media.baamboozle.com/uploads/images/1006/1613865760_810030_gif-url.gif" width="60" height="60" 
-/> 
- -->
- 
-<!-- 
- <img src="https://i.pinimg.com/originals/8a/48/7e/8a487e2d72e959c458857f1b72271166.gif" width="60" height="60"
-/>
- <img src="https://i.pinimg.com/originals/53/09/48/5309488ff206d5bf5850908bdfe78409.gif" width="60" height="60"
-/>
- <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" width="60" height="60"
-/>
- <img src="https://i.pinimg.com/originals/9e/fe/39/9efe39fbce628204e851962cac817d45.gif" width="60" height="60"
-/>
- <img src="https://i.pinimg.com/originals/9f/9a/df/9f9adfa6f52bb13d1656fcb9f4c8ac1a.gif" width="60" height="60"
-/>
- <img src="https://i.pinimg.com/originals/f2/36/52/f23652e5ebbd80be8a9e3fb8644436e8.gif" width="60" height="60"
-/> 
-  -->
-  <br/>
                                                                                                                       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Iam+Irfan+Asif)](https://git.io/typing-svg)
 <br/>
