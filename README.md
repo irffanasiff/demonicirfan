@@ -52,7 +52,7 @@
 <code><img height="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="45" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"></code>
 <code><img height="45" src="https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png"></code>
-
+<code><img height="45" src="https://user-images.githubusercontent.com/74172466/134541155-5d52799c-a4d0-4160-a200-0ee02f00e05d.png"></code>
 
 
 <span> <img src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=demonicirfan&currStreakNum=2FD3EB&theme=gotham"/> </span>
