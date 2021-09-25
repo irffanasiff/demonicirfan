@@ -55,5 +55,5 @@
 <code><img height="45" src="https://user-images.githubusercontent.com/74172466/134541155-5d52799c-a4d0-4160-a200-0ee02f00e05d.png"></code>
 
 
-<span> <img src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />  </span>
+<span> <img src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demonicirfan&theme=gotham)](https://git.io/streak-stats)  </span>
 
