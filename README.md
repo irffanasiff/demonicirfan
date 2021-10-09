@@ -1,10 +1,11 @@
- 
+
   <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 <p align="left" width="50%">
  I am <b>Irfan Asif</b> an undergraduate student at the National Institute of Technology Srinagar in Jammu & Kashmir, India pursuing Electronics and Communication Engineering. I first got familiar with computers and aspects of software development in high school, seeing the great and ever-increasing utility of the same continued to fuel my desire to learn more. In pursuit of exploring different fields of computer science, I began learning web development in my freshman year and worked on projects, which proved to be immensely enlightening. In acquiring the various web and software development skills, I began contributing to the open-source community so that I can give back to organizations whose products have been valuable assets to me. 
 
 I am an active member of various Coding Communities and clubs at NIT Srinagar. We are a bunch of passionate development and design enthusiasts trying to foster a software development culture on the campus. While working on our projects we adhere to very strict timelines and make sure to follow the best practices to create impacts of the highest significance.
 </p> 
+  <a height="50"  href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/demonicirfan.svg?style=social" /> </a>
 <p align="left">  
   <img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img height="40"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -30,19 +31,10 @@ I am an active member of various Coding Communities and clubs at NIT Srinagar. W
   <img height="40"  src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img  height="40" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img height="40"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- 
 </p>
 
+<img align="center" src="./github-user-contribution.svg">
 
-  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=demonicirfan&show_icons=true&theme=gotham">
-  <img align="right" width="420"  src="http://github-readme-streak-stats.herokuapp.com?user=demonicirfan&theme=gotham">
-<p align="center">  
-<a href="https://twitter.com/demonicirfan">
-  <img height="200" alt=" Twitter" src="https://media2.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif?cid=790b7611dae4d0e429ce5944ca4756ffae53d387943806d6&rid=giphy.gif&ct=s" />
-</a>
-<a href="https://www.linkedin.com/in/demonicirfan/">
-  <img height="200" alt="irfans LinkedIN"src="https://media2.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif?cid=ecf05e474xcntaqo25kopix8z3lb5m4nzjpziaohtwbgctrj&rid=giphy.gif&ct=s" />
-</p>
 
    
 
