@@ -1,9 +1,7 @@
 
   <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 <font size="6" align="left" width="50%">
- I am <b>Irfan Asif</b> an undergraduate student at the National Institute of Technology Srinagar in Jammu & Kashmir, India pursuing Electronics and Communication Engineering. I first got familiar with computers and aspects of software development in high school, seeing the great and ever-increasing utility of the same continued to fuel my desire to learn more. In pursuit of exploring different fields of computer science, I began learning web development in my freshman year and worked on projects, which proved to be immensely enlightening. In acquiring the various web and software development skills, I began contributing to the open-source community so that I can give back to organizations whose products have been valuable assets to me. 
-
-I am an active member of various Coding Communities and clubs at NIT Srinagar. We are a bunch of passionate development and design enthusiasts trying to foster a software development culture on the campus. While working on our projects we adhere to very strict timelines and make sure to follow the best practices to create impacts of the highest significance.
+ I am <b>Irfan Asif</b> an undergraduate student at the National Institute of Technology Srinagar in Jammu & Kashmir, India pursuing Electronics and Communication Engineering. I am currently in my Second year and looking for some amazing projects to workUpon.
 </font> 
   <a height="50"  href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/demonicirfan.svg?style=social" /> </a>
 <p align="left">  
