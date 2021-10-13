@@ -1,7 +1,7 @@
 
   <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 <font size="6" align="left" width="50%">
- I am <b>Irfan Asif</b> an undergraduate student at the National Institute of Technology Srinagar in Jammu & Kashmir, India pursuing Electronics and Communication Engineering. I am currently in my Second year and looking for some amazing projects to workUpon.
+ I am <b>Irfan Asif</b> an undergraduate student at the National Institute of Technology Srinagar in Jammu & Kashmir. I like to contribute to open source and help others learn code. 
 </font> 
   <a height="50"  href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/demonicirfan.svg?style=social" /> </a>
 <p align="left">  
