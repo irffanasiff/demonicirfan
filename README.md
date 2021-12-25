@@ -34,7 +34,7 @@ Portfolio website https://irfanasif.me
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demonicirfan&" alt="demonicirfan" /></p>
 
-<img align="center" src="./github-user-contribution.svg">
+
 
 
    
