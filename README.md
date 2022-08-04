@@ -18,7 +18,7 @@ My Projects
 <p align="left"> <a href="https://twitter.com/demonicirfan" target="blank"><img src="https://img.shields.io/twitter/follow/demonicirfan?logo=twitter&style=for-the-badge" alt="demonicirfan" /></a> </p>
 <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 
-- 🔭 I’m currently Learning WEB3.0
+- 🤓 I’m currently Learning WEB3.0
 
 - 👨‍💻 All of my projects are available at [www.irfanasif.me](www.irfanasif.me)
 
